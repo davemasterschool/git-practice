@@ -4,11 +4,11 @@ Welcome to the Git practice repository!
 
 ## Steps to Complete the Task
 
-### 1. Fork This Repository
+### 1a. Fork This Repository - if you are not a collaborator, otherwise you can directly clone it.
 
 Click the "Fork" button at the top-right corner of this repository to create your own copy on GitHub.
 
-### 2. Clone Your Own Fork
+### 1b. Clone Your Own Fork
 
 Clone your forked repository to your local machine using:
 
@@ -17,7 +17,7 @@ git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
 ```
 
-### 3. Create a New Branch
+### 2. Create a New Branch
 
 Create a new branch for your work (e.g. feat-add-your-name-file:
 
@@ -25,7 +25,7 @@ Create a new branch for your work (e.g. feat-add-your-name-file:
 git checkout -b feat-add-your-name-file
 ```
 
-### 4. Add Your File
+### 3. Add Your File
 
 Create a new file named after your name or nickname (e.g., `john_doe.py`).
 
@@ -39,7 +39,7 @@ def greet():
     return "Hello from John Doe!"
 ```
 
-### 5. Commit Your Changes
+### 4. Commit Your Changes
 
 Stage and commit your file (remember add your file, not the example john_doe.py):
 
@@ -48,7 +48,7 @@ git add john_doe.py
 git commit -m "Added john_doe.py with a greet function"
 ```
 
-### 6. Push Your Changes
+### 5. Push Your Changes
 
 Push your branch to your forked repository:
 
@@ -56,7 +56,7 @@ Push your branch to your forked repository:
 git push -u origin add-my-file
 ```
 
-### 7. Create a Pull Request
+### 6. Create a Pull Request
 
 Go to the original repository on GitHub. (davemasterschool)
 

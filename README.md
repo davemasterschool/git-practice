@@ -53,7 +53,7 @@ git commit -m "Added john_doe.py with a greet function"
 Push your branch to your forked repository:
 
 ```bash
-git push -u origin add-my-file
+git push -u origin feat-add-your-name-file
 ```
 
 ### 6. Create a Pull Request

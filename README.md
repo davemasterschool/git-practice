@@ -4,16 +4,16 @@ Welcome to the Git practice repository!
 
 ## Steps to Complete the Task
 
-### 1a. Fork This Repository - if you are not a collaborator, otherwise you can directly clone it.
+### 1a. Fork This Repository - HOWEVER if you are a collaborator then you can just directly clone this repo
 
 Click the "Fork" button at the top-right corner of this repository to create your own copy on GitHub.
 
-### 1b. Clone Your Own Fork
+### 1b. Clone Your Own Fork - OR if you are 
 
-Clone your forked repository to your local machine using:
+Clone your forked repository to your local machine using SSH key:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone git@github.com:youraccountname/yourgitreponame.git
 cd <repo-name>
 ```
 

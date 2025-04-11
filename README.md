@@ -8,7 +8,7 @@ Welcome to the Git practice repository!
 
 Click the "Fork" button at the top-right corner of this repository to create your own copy on GitHub.
 
-### 1b. Clone Your Own Fork - OR if you are 
+### 1b. Clone Your Own Fork -
 
 Clone your forked repository to your local machine using SSH key:
 
